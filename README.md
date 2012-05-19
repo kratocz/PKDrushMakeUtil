@@ -7,5 +7,5 @@ Usage:
 ./pkdrushmakeutil.php command argument1 argument2 ...
 
 Commands:
-* modules <filename> ... lists projects between lines "#!begin:modules" and "#!end:modules".
-* abc <filename> .
+* modules <makefilename> ... lists projects between lines "#!begin:modules" and "#!end:modules".
+* abc <makefilename> ... /not implemented, yet!/ reorder projects between lines "#!begin:modules" and "#!end:modules" to alphabetic order.
